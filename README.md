@@ -44,3 +44,4 @@ export VERCEL_TOKEN=<your-vercel-token>
 vercel build --token=$VERCEL_TOKEN --cwd=${PWD}/apps/web
 vercel deploy --prebuilt --token=$VERCEL_TOKEN --cwd=${PWD}/apps/web
 ```
+
